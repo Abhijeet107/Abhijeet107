@@ -10,7 +10,7 @@ Here are some ideas to get you started: -->
 - 👯 I’m looking to collaborate on YOUTUBE
 - 🤔 I’m looking for help with Full Stack Webdevelopment
 - 💬 Ask me about Full Stack Webdevelopment
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+<!-- - 📫 How to reach me:  -->
+- 😄 Pronouns: Algorithm
 - ⚡ Fun fact: I love winter.
 
