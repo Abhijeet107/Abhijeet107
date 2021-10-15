@@ -3,7 +3,7 @@
 <!--
 **Abhijeet107/Abhijeet107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on E-commerse website.
 - 🌱 I’m currently learning DSA
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I love winter.
--->
+
