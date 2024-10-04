@@ -5,12 +5,13 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on E-commerse website.
-- 🌱 I’m currently learning DSA & Front-end development.
+- 🔭 I’m currently working on Excel, SQL, and PYTHON.
+- 🌱 I’m currently learning POWER BI, TABLEAU.
 - 👯 I’m looking to collaborate on YOUTUBE.
-- 🤔 I’m looking for help with Full Stack Webdevelopment
-- 💬 Ask me about Full Stack Webdevelopment
+- 🤔 I’m looking for help with DATA ANALYSIS.
+- 💬 Ask me about DATA ANALYSIS
 - 📫 How to reach me:  abhijeet.kuanr@gmail.com
-- 😄 Pronouns: Algorithm
+- 😄 Pronouns: ANALYSIS
 - ⚡ Fun fact: I love winter.
+  
 
