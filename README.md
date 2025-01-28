@@ -6,7 +6,7 @@
 Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on Excel, SQL, and PYTHON.
-- 🌱 I’m currently learning POWER BI, TABLEAU.
+- 🌱 I’m currently learning POWER BI, TABLEAU, Numpy, Pandas.
 - 👯 I’m looking to collaborate on YOUTUBE.
 - 🤔 I’m looking for help with DATA ANALYSIS.
 - 💬 Ask me about DATA ANALYSIS
